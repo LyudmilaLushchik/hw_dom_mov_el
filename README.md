@@ -1,5 +1,5 @@
 
-![CI](https://github.com/LyudmilaLushchik/hw_dom_mov_el/actions/workflows/web.yml/badge.svg)
+
 
 # Домашнее задание к занятию "2. DOM"
 
