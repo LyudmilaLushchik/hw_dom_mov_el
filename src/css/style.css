@@ -1,0 +1,19 @@
+.game-board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    height: 480px;
+  }
+  
+  .cell {
+    width: 118px;
+    height: 118px;
+    border: 1px solid black;
+  }
+  
+  #character {
+    width: 110px;
+    height: 110px;
+    position: absolute;
+  }
+  
